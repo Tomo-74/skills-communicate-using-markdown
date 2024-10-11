@@ -9,3 +9,7 @@ public static void main(String[] args) {
   System.out.println("Hello world");
 }
 ```
+
+- [ ] Crush plebs in Geoguessr
+- [ ] Study Rainbolt film
+- [ ] Sleep
